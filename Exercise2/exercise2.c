@@ -5,13 +5,15 @@ void main(){
 	/* Here, you should write the source code of your program */
 	int A;
 	int B;
-	int C; 
+	int C;
+	int D; 
 	printf("Give value for A");
 	scanf("%d", &A);
 	printf("Give value for B");
 	scanf("%d", &B);
-	C=A+B;
-	printf("C=%d", C);
-	
-	
+	printf("Give value for C");
+	scanf("%d", &C);
+	D=A+B+C;
+	printf("D=%d", D);
+		
 }
