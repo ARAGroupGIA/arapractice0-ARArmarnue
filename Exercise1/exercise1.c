@@ -5,6 +5,6 @@
 /* Here, you must include the required libraries */
 #include <stdio.h>
 void main(){
-	printf("Hello world version 1");
+	printf("Hello world version 2");
 	/* Here, you must write the source code to show the missatge "Hello world" on screen*/
 }
